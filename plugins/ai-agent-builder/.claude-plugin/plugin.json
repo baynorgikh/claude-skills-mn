@@ -1,0 +1,10 @@
+{
+    "name":  "ai-agent-builder",
+    "version":  "1.0.0",
+    "description":  "Ажлаа автоматжуулах AI агент (to-do, тайлан, бичиг боловсруулах гэх мэт) төлөвлөж, CLAUDE.md бичиж, subagent болон зөвшөөрлийн шаттай барих үед ашиглана.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}

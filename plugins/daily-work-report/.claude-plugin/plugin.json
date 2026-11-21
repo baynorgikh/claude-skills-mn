@@ -1,0 +1,10 @@
+{
+    "name":  "daily-work-report",
+    "version":  "1.0.0",
+    "description":  "Хэрэглэгчийн тухайн өдрийн ажлын файл, Google Calendar, дуут болон хурлын тэмдэглэлийг шинжилж, Activity Log хөтөлж, өдрийн ажлын гүйцэтгэлийн албан ёсны тайланг .docx хэлбэрээр боловсруулах үед ашиглана.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}

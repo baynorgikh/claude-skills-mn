@@ -1,0 +1,55 @@
+{
+  "name": "claude-skills-mn",
+  "owner": {
+    "name": "baynorgikh",
+    "url": "https://github.com/baynorgikh"
+  },
+  "metadata": {
+    "description": "Монгол хэрэглэгчдэд зориулсан Claude skill-үүд: монгол хэл, монгол бичиг, статистик, төрийн цахим үйлчилгээ, AI агент, бүтээмж.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mongol-bichig-teacher",
+      "source": "./plugins/mongol-bichig-teacher",
+      "description": "Монгол (уйгуржин) бичиг заах, кирилл ↔ монгол бичиг хөрвүүлэх, галиглах, нөхцөл залгах дүрэм.",
+      "category": "education"
+    },
+    {
+      "name": "mongolian-language-teacher",
+      "source": "./plugins/mongolian-language-teacher",
+      "description": "Монгол үгийн зөв бичлэг, утга, зөв бичих дүрэм (§1–§64), найруулгыг toli.gov.mn, mongoltoli.mn-ээр баталгаажуулж заах.",
+      "category": "education"
+    },
+    {
+      "name": "heiman-statistics-mn",
+      "source": "./plugins/heiman-statistics-mn",
+      "description": "Зан үйлийн шинжлэх ухааны статистикийг монголоор заах, бодлого бодох, арга сонгох, SPSS/APA тайлагнах.",
+      "category": "education"
+    },
+    {
+      "name": "oecd-public-service-design",
+      "source": "./plugins/oecd-public-service-design",
+      "description": "Төрийн цахим үйлчилгээг OECD-ийн 9 зарчмаар төлөвлөх, үнэлэх, бодлогын баримтад үндэслэл оруулах.",
+      "category": "government"
+    },
+    {
+      "name": "ai-agent-builder",
+      "source": "./plugins/ai-agent-builder",
+      "description": "Ажлаа автоматжуулах AI агент төлөвлөж, CLAUDE.md бичиж, subagent болон зөвшөөрлийн шаттай барих.",
+      "category": "productivity"
+    },
+    {
+      "name": "task-brief-builder",
+      "source": "./plugins/task-brief-builder",
+      "description": "Санаагаа асуулт хариултаар тодруулж Ажил–Яагаад–Дүрэм–Дууссан гэсэн 4 хэсэгтэй brief болгох.",
+      "category": "productivity"
+    },
+    {
+      "name": "daily-work-report",
+      "source": "./plugins/daily-work-report",
+      "description": "Өдрийн ажлын файл, календарь, тэмдэглэлийг шинжилж, Activity Log хөтөлж, албан ёсны .docx тайлан гаргах.",
+      "category": "productivity"
+    }
+  ]
+}

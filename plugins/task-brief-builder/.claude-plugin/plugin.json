@@ -1,0 +1,10 @@
+{
+    "name":  "task-brief-builder",
+    "version":  "1.0.0",
+    "description":  "Том ажил өгөхөөс өмнө санаагаа нэг нэгээр асууж тодруулж, Ажил–Яагаад–Дүрэм–Дууссан гэсэн 4 хэсэгтэй brief болгож, хүчин чармайлт, subagent, гаралтын хэлбэрийг санал болгоно.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}

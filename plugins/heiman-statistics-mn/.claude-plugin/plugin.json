@@ -1,0 +1,10 @@
+{
+    "name":  "heiman-statistics-mn",
+    "version":  "1.0.0",
+    "description":  "Зан үйлийн шинжлэх ухааны (сэтгэл судлал) статистикийг Heiman-ы \"Basic Statistics for the Behavioral Sciences\" номын дагуу монголоор заах, бодлого бодох, шинжилгээний арга сонгох, SPSS/APA тайлагнахад ашиглана.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}

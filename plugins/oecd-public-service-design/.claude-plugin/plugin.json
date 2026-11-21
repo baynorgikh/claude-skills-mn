@@ -1,0 +1,10 @@
+{
+    "name":  "oecd-public-service-design",
+    "version":  "1.0.0",
+    "description":  "Төрийн (шүүхийн) цахим үйлчилгээг төлөвлөх, үнэлэх, сайжруулах, энэ сэдвээр бодлогын баримт, танилцуулга, дүгнэлт бичихэд OECD-ийн 9 зарчим, цахим засаглалын хүрээг ашиглана.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}

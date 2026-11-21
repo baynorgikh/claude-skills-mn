@@ -1,0 +1,10 @@
+{
+    "name":  "mongolian-language-teacher",
+    "version":  "1.0.0",
+    "description":  "Монгол үгийн зөв бичлэг, утга, хувилал, зөв бичих дүрэм (§1–§64), найруулгын алдааг toli.gov.mn, mongoltoli.mn толиудаар баталгаажуулж заах, засах, дасгал өгөх.",
+    "author":  {
+                   "name":  "baynorgikh",
+                   "url":  "https://github.com/baynorgikh"
+               },
+    "license":  "MIT"
+}
